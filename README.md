@@ -1,2 +1,2 @@
 # instadown
-Download instagram images and videos automatically
+Simple webscraper to download pictures and videos from instagram
